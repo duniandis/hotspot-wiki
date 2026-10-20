@@ -1,2 +1,0 @@
-# hotspot-wiki
-hotspot-wiki
